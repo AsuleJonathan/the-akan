@@ -13,4 +13,7 @@ Javascript
 All parties are welcome fo any contribtions or corrections at the following email.
 asulejona@gmail.com
 ## Licensimg and copyright information
+MIT License 
+copyright (c) JONATHAN ASULE
+
 
