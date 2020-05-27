@@ -10,3 +10,5 @@ HTML(Herper Text Markup Language)
 CSS(Cascading Style Sheets)
 Javascript
 ## Contact information
+All parties are welcome fo any contribtions or corrections at the following email.
+asulejona@gmail.com
