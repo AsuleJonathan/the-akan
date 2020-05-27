@@ -1,0 +1,47 @@
+h1{
+	text-align: center;
+	color: black;
+	background: grey;
+  font-size: 40;
+}
+h2{
+	text-align: center;
+	text-transform: uppercase;
+}
+p{
+	font-size: 16;
+}
+table {
+  font-family: Times New Roman, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 18 ;
+
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: rgb(150, 140, 140);
+}
+label{
+  text-align: center;
+}
+
+body{
+      background-image: url("../images/ghana2.ico.jpg");
+      padding-left: 50;
+      padding-right: 50;
+}
+
+.calculate{
+  background-color: grey;
+}
+
+label{
+  font-size:20;
+}
