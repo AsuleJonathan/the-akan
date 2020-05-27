@@ -9,4 +9,4 @@ Git
 HTML(Herper Text Markup Language)
 CSS(Cascading Style Sheets)
 Javascript
-## Contact informatio
+## Contact information
